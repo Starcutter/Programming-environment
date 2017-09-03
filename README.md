@@ -17,6 +17,15 @@ export PKG_CONFIG_PATH
 
 特别的，对于`PATH`变量，在`/etc/paths`下存放着默认的值，在`/etc/paths.d/`目录下可以添加新的值，使用`Vim`等编辑器修改即可。
 
+## mac地址
+新的设备似乎无法连接学校DIVI，DIVI-2网络，于是可以将新设备的mac地址改为旧设备的，方法是写一个文件Settings，内容为
+
+```bash
+sudo ifconfig en0 ether XX:XX:XX:XX:XX:XX
+```
+
+注意该效果每次重启后都会消失，故每次开机后执行`source Settings`即可。
+
 ## CLion
 
 ### opencv
