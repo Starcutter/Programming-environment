@@ -1,6 +1,16 @@
 # 概述
 本项目存放编程环境的配置方法及文件以备后续的使用.
 
+# 使用说明
+因为`Vim`中的`livescript`支持使用了其他人的`github`仓库，所以将本包`git clone`之后需要输入
+
+```bash
+git submodule init
+git submodule update 
+```
+
+这样才可以实现`vim`对`livescript`的支持。
+
 # Mac下一些配置方法
 
 以下方法均在`mac`下实现。
