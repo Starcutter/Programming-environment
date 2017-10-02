@@ -5,3 +5,4 @@
 [submodule "vim-javascript"]
     path = src/.vim/bundle/vim-javasript
     url = https://github.com/pangloss/vim-javascript.git
+
