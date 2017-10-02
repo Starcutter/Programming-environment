@@ -1,8 +1,8 @@
 [user]
-	name = 徐韧喆
-	email = xrz15@mails.tsinghua.edu.cn
+    name = 徐韧喆
+    email = xrz15@mails.tsinghua.edu.cn
 [core]
-	autocrlf = input
+    autocrlf = input
     excludesfile = ~/.gitignore_global
 [color]
-	ui = auto
+    ui = auto
