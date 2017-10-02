@@ -3,5 +3,5 @@
     url = https://github.com/gkz/vim-ls.git
 
 [submodule "src/.vim/bundle/vim-javascript"]
-	path = src/.vim/bundle/vim-javascript
-	url = https://github.com/pangloss/vim-javascript.git
+    path = src/.vim/bundle/vim-javascript
+    url = https://github.com/pangloss/vim-javascript.git
