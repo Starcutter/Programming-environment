@@ -1,7 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/Users/wind/chengxu/c'
 let g:netrw_dirhist_2='/private/etc/paths.d'
 let g:netrw_dirhist_3='/Users/wind'
 let g:netrw_dirhist_4='/Users/wind/Desktop/Homework3/Homework3'
 let g:netrw_dirhist_5='/Users/wind/.vim'
+let g:netrw_dirhist_6='/Users/wind'
+let g:netrw_dirhist_7='/Users/wind/Programs/Programming-environment/Bash'
+let g:netrw_dirhist_8='/Users/wind/Programs/Programming-environment/src'
+let g:netrw_dirhist_9='/Users/wind/Programs/Software engineering/src/Playground/.git'

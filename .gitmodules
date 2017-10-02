@@ -1,3 +1,7 @@
 [submodule "vim-ls"]
     path = src/.vim/bundle/vim-ls
     url = https://github.com/gkz/vim-ls.git
+
+[submodule "vim-javascript"]
+    path = src/.vim/bundle/vim-javasript
+    url = https://github.com/pangloss/vim-javascript.git
