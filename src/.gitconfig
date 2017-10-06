@@ -4,5 +4,6 @@
 [core]
     autocrlf = input
     excludesfile = ~/.gitignore_global
+    editor = vim
 [color]
     ui = auto
