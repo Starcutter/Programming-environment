@@ -4,7 +4,7 @@
 
 "set lines=40 columns=155    " 设定窗口大小  
 
-execute pathogen#infect()
+"execute pathogen#infect()
 
 set go=             " 不要图形按钮  
 
